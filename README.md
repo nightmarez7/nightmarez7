@@ -55,7 +55,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=nightmarez7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
