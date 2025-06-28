@@ -63,7 +63,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmarez7&theme=dark&layout=compact&custom_title=Languages Used&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmarez7&theme=dark&layout=compact&custom_title=LanguagesUsed&langs_count=9" 
   />
 
 </p>
