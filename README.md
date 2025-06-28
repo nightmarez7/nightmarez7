@@ -55,14 +55,14 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 7px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nightmarez7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="160" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmarez7&theme=dark&layout=compact&custom_title=LanguagesUsed&langs_count=9" 
   />
 
